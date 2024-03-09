@@ -1,4 +1,4 @@
-# credit_card_default_predictor
+
 #  **CreditCardFraud Detection Project** 
 
  How to run the project:
