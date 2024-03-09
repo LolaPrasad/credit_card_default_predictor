@@ -20,10 +20,10 @@ pip install -r requirements.txt
 4. Export the following parameters
 
 ```bash
-export MLFLOW_TRACKING_USERNAME=
+export MLFLOW_TRACKING_USERNAME=LolaPrasad
 ```
 ```bash
-export MLFLOW_TRACKING_PASSWORD=
+export MLFLOW_TRACKING_PASSWORD=b3dd566df7aa0993bd001ce80436a98f1df03907
 ```
 
 5. Run the training pipeline to train the model and create the artifacts:

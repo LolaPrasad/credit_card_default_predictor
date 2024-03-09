@@ -11,7 +11,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-mlflow.set_tracking_uri('https://dagshub.com/LolaPrasad/Credit_Card_Default_Prediction.mlflow')
+mlflow.set_tracking_uri('https://dagshub.com/LolaPrasad/credit_card_default_predictor.mlflow')
 
 
 @dataclass(frozen=True)
