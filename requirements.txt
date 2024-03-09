@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+PyYAML
+imblearn
+mlflow
+streamlit
+-e .
