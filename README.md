@@ -49,11 +49,12 @@ Upload csv file to get the results
 #### Mlflow tracking with dagshub:
 
 ```angular2html
-MLFLOW_TRACKING_URI=
+MLFLOW_TRACKING_URI=https://dagshub.com/LolaPrasad/credit_card_default_predictor.mlflow
 ```
 
+Streamlit cloud link = https://creditcardapp.streamlit.app/#credit-card-fraud-detection
 
-
+App Url =https://creditcardapp.streamlit.app/
 
 #### Docker image
 ```docker
